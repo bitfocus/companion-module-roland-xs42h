@@ -1,12 +1,15 @@
 {
   "name": "roland-xs42h",
-  "version": "1.0.0",
-	"api_version": "1.0.0",
-	"keywords": [ "Vision Mixer", "Matrix" ],
-	"manufacturer": "Roland",
-	"product": "XS-42H",
-	"shortname": "XS-42H",
-	"description": "",
+  "version": "1.0.1",
+  "api_version": "1.0.0",
+  "keywords": [
+    "Vision Mixer",
+    "Matrix"
+  ],
+  "manufacturer": "Roland",
+  "product": "XS-42H",
+  "shortname": "XS-42H",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
